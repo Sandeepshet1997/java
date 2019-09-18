@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/sandeepsheta20/NewRepo/_apis/build/status/NewRepo-Maven-CI?branchName=master)](https://dev.azure.com/sandeepsheta20/NewRepo/_build/latest?definitionId=14&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
